@@ -1,0 +1,11 @@
+{
+  "source_movie_count": 2000,
+  "generated_movie_detail_pages": 2000,
+  "category_pages": 16,
+  "category_card_total": 4000,
+  "html_pages_total": 2021,
+  "baidu_script_missing_pages": [],
+  "video_url_count_extracted_from_original_js": 20,
+  "logo_name": "国产好剧",
+  "cover_rule": "X = ((N - 1) % 150) + 1; pages reference root 1.jpg to 150.jpg"
+}
